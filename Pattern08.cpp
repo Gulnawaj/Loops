@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n ;
+    cout<<"enter the value of n"<<" ";
+    cin>>n;
+    int m;
+    cout<<"enter value of m"<<" ";
+    cin>>m;
+    for(int i=1 ; i<=n;i++){
+        for(char j='a';j<='f'+m;j++){
+            cout<<j<<" ";
+        }
+        cout<<endl;
+    }
+}
