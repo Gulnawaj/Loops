@@ -9,7 +9,7 @@ int main() {
 
     for(char name = 'a'; name <= end; name++) {
         for(char j = 'a'; j <= name; j++) {
-            cout << name << " ";
+            cout << j << " ";
         }
         cout << endl;
     }
