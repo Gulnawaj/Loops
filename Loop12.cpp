@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     //factor of the given number 
+    //use of while loop
     int n;
     cout<<"enter the number :- ";
     cin>>n;
