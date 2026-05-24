@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    //check leap year or not
     int year;
     cout<<"Enter the year ";
     cin>>year;
