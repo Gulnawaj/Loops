@@ -21,7 +21,7 @@ int main(){
     cout<<"enter value of num ";
     cin>>num;
     int  p = prime(num);
-    if(p == 1){
+    if(p){
         cout<<"it is a prime number";
     }
     else{
